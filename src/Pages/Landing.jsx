@@ -8,7 +8,7 @@ const Landing = () => {
   const [zip, setZip] = useState();
 
   const fetchLocalWeather = () => {
-    return axios.get("http://localhost:3001/").then(({ data }) => {
+    return axios.get("https://weather-app-api-4ux5.onrender.com").then(({ data }) => {
       return data;
     });
   };
@@ -19,7 +19,7 @@ const Landing = () => {
 
   const fetchZipCodeWeather = () => {
     return axios
-      .get("http://localhost:3001/zipcode", {
+      .get("https://weather-app-api-4ux5.onrender.com/zipcode", {
         params: {
           zip,
         },

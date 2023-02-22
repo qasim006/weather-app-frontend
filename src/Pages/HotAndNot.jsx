@@ -14,7 +14,7 @@ const HotAndNot = () => {
 
   const fetchZipCodeWeather = (zip) => {
     return axios
-      .get("http://localhost:3001/zipcode", {
+      .get("https://weather-app-api-4ux5.onrender.com/zipcode", {
         params: {
           zip,
         },
