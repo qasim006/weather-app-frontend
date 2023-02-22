@@ -23,5 +23,6 @@ export const weatherImages = new Map([  ["clear sky", "sunny.png"],
   ["mist", "mist.png"],
   ["snow", "snowing.png"],
   ["light snow", "snowing.png"], // <-- add this line
+  ["haze", "mist.png"], // <-- add this line
 ]);
 
