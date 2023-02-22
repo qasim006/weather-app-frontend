@@ -11,7 +11,7 @@ const FreezeAndFlee = () => {
 
   const fetchZipCodeWeather = (zip) => {
     return axios
-      .get("https://weather-app-api-4ux5.onrender.com/zipcode", {
+      .get("http://localhost:3001/zipcode", {
         params: {
           zip,
         },

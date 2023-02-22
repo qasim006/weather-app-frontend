@@ -8,7 +8,7 @@ const Landing = () => {
   const [zip, setZip] = useState();
 
   const fetchLocalWeather = () => {
-    return axios.get("https://weather-app-api-4ux5.onrender.com").then(({ data }) => {
+    return axios.get("https://weather-app-api-4ux5.onrender.com/").then(({ data }) => {
       return data;
     });
   };
