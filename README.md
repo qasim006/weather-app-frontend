@@ -1,37 +1,32 @@
 # Weather App
 
 This is a simple weather app created with React that displays the weather conditions for a given zip code. To use this app, you will need to have the backend running simultaneously.
+# Weather App
 
-## Getting Started
+This is a weather app built with React that allows users to view the current weather conditions for a given location.
 
-To get started, follow these steps:
+## Usage
 
-1. Clone the repository.
-2. Run `npm install` to install the necessary dependencies.
-3. Run `npm start` to start the app.
-4. Open `http://localhost:3000` in your browser.
-5. Enter a zip code in the input field to view the weather conditions.
+To use this app, follow these steps:
 
-**Note: The backend must be running simultaneously to use this app.**
+1. Ensure that the backend server is running simultaneously.
+2. Open the `index.html` file in your browser.
+3. Enter the zip code of the location you want to view the weather for.
+4. Click the "Search" button to view the current weather conditions.
 
-## Backend
+## Screenshot
 
-The backend for this app is a simple Node.js and Express server that retrieves weather data from the OpenWeatherMap API. You can find the backend code in the [weather-app-backend](https://github.com/qasim006/weather-app-backend) repository.
-
-## Technologies
-
-This app was created with the following technologies:
-
-- React
-- Node.js
-- Express
-- Axios
-- Material UI
+![Weather App Screenshot](https://github.com/qasim006/Weather-App/blob/main/screenshots/weather-app-screenshot.png)
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/qasim006).
+This app uses the following libraries:
+
+- React (https://reactjs.org/) for building the user interface.
+- Material UI (https://material-ui.com/) for styling the user interface.
+- Axios (https://axios-http.com/) for making HTTP requests to the backend server.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
