@@ -16,7 +16,7 @@ The backend for this app is a simple Node.js and Express server that retrieves w
 
 ## Screenshot
 
-![Weather App Screenshot]([https://github.com/qasim006/Weather-App/blob/main/screenshots/weather-app-screenshot.png](https://raw.githubusercontent.com/qasim006/weather-app-frontend/main/Weather%20Screenshot.png))
+![Weather App Screenshot](https://raw.githubusercontent.com/qasim006/weather-app-frontend/main/Weather%20Screenshot.png)
 
 ## Live Demo
 
