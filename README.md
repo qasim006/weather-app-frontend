@@ -16,7 +16,7 @@ To get started, follow these steps:
 
 ## Backend
 
-The backend for this app is a simple Node.js and Express server that retrieves weather data from the OpenWeatherMap API. You can find the backend code in the [weather-app-backend](https://github.com/your-username/weather-app-backend) repository.
+The backend for this app is a simple Node.js and Express server that retrieves weather data from the OpenWeatherMap API. You can find the backend code in the [weather-app-backend](https://github.com/qasim006/weather-app-backend) repository.
 
 ## Technologies
 
@@ -30,7 +30,7 @@ This app was created with the following technologies:
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username).
+This project was created by [Your Name](https://github.com/qasim006).
 
 ## License
 
