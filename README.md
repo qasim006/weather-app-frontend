@@ -34,7 +34,7 @@ This app was created with the following technologies:
 
 ## Credits
 
-This project was created by [qasim006](https://github.com/your-username).
+This project was created by [qasim006](https://github.com/qasim006).
 
 ## License
 
